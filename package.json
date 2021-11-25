@@ -1,0 +1,25 @@
+{
+  "name": "quick-pokebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlcaDesign/quick-pokebot.git"
+  },
+  "keywords": [],
+  "author": "alca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlcaDesign/quick-pokebot/issues"
+  },
+  "homepage": "https://github.com/AlcaDesign/quick-pokebot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.6",
+    "tmi.js": "^1.8.5"
+  }
+}
